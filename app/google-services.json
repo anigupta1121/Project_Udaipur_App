@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "286327507548",
+    "firebase_url": "https://projectudaipur-c7095.firebaseio.com",
+    "project_id": "projectudaipur-c7095",
+    "storage_bucket": "projectudaipur-c7095.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286327507548:android:82902671bc6e667e",
+        "android_client_info": {
+          "package_name": "com.project_udaipur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286327507548-470sfas40gv5ba40vk1sbc433ih4gp55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEfOtQyJxGeYUuJ3qJS3sEc5v_Ib2wvRg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
